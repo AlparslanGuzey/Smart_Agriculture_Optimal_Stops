@@ -24,11 +24,14 @@ This work was published in a chapter titled "Smart Agriculture with Autonomous U
 
 The repository contains the following files:
 
-Smart_Agriculture_Optimal_Stops/ ├── docs/ │ 
-└── Smart-Agriculture-With-Autonomous-Unmanned-Ground-and-Air-Vehicles.pdf # Research paper ├── src/ │ 
-└── Optimal Number of Stops UAV.jl # Julia code for optimization model │ 
-└── README.md # This README file │
-└── LICENSE # License information
+Smart_Agriculture_Optimal_Stops/
+├── docs/
+│   └── Smart-Agriculture-With-Autonomous-Unmanned-Ground-and-Air-Vehicles.pdf  # Research paper
+├── src/
+│   └── Optimal Number of Stops UAV.jl                                          # Julia code for the optimization model
+├── README.md                                                                   # Project documentation
+└── LICENSE                                                                     # License information
+
 
 
 - **docs/**: Contains the research paper for reference.
